@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QHLzryMKkS5Hgun9cIVlZdF5hZv6GNsbGw7IFH2tgPqzKxf86RmrPQNgVgemOLC3/GTMYmYVt6Yp+gdLOqgxBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ben Cofield\\repos\\ASP.NET Apps\\KanyeAndRonSwanson\\KanyeAndRonSwanson\\KanyeAndRonSwanson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ben Cofield\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
